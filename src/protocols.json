@@ -474,7 +474,6 @@
       "imageDark": "zerolend-dark.svg",
       "imageLight": "zerolend-light.svg",
       "name": "ZeroLend",
-      "products": ["iBGT"],
       "type": "money-market",
       "url": "https://zerolend.xyz"
     }
